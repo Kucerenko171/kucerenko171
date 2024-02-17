@@ -13,7 +13,7 @@
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
         <tr>
                 <td>
-                       <a href="https://app.daily.dev/7hejudge"><img src="https://api.daily.dev/devcards/v2/6aS88fkuAfBFs8m9foAC3.png?type=default&r=73m" width="356" alt="Yan Silitskiy's Dev Card"/></a>
+                       <a href="https://app.daily.dev/7hejudge"><img src="https://api.daily.dev/devcards/v2/6aS88fkuAfBFs8m9foAC3.png?type=default&r=3t5" width="356" alt="Yan Silitskiy's Dev Card"/></a>               
                 </td>
                 <td>
                         <table style="width: fit-content; border:0;">
@@ -45,7 +45,7 @@
 
 ## Languages and tools
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,c,python,vscode,linux,docker,mysql,mongodb,redis,heroku,html,css,scss,aws,react,nestjs,nextjs,graphql,express,firebase,github,wordpress,discord)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,react,nodejs,mongodb,firebase,nextjs,postgres,docker,graphql,redux,bootstrap,sass,tailwind,apollo,materialui,mysql,webpack,jest,github,gitlab,vercel,vite,idea,jenkins,postman,figma,devto,discord,heroku)](https://skillicons.dev)
   
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kucerenko171)
 [![wakatime](https://wakatime.com/badge/user/018db835-54be-4cce-a551-fb5e465f25b3.svg)](https://wakatime.com/@018db835-54be-4cce-a551-fb5e465f25b3)
