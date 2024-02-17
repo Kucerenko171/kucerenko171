@@ -22,21 +22,15 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+haven%27t+seen+you+for+a+long+time)](https://git.io/typing-svg)
 
-<!--Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bachelor of computer science. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></a>
-
-- 🍃 I’m currently working with Reactjs, React-Native, NestJS, GraphQL, typescript...
-- 👍 Nowadays, I'm getting certifications.
-- 📫 How to reach me: emanuelcascone@gmail.com
-- ⚡ Fun fact: I love music, languages, animes, classic books and playing piano/guitar.
+- 🍃 I’m currently working with Reactjs, React, NextJS, TypeScript...
+- 📫 How to reach me: yanuck00723@gmail.com
+- ⚡ Fun fact: I go in for swimming and powerlifting. Self-education in crypto, development and psychology.
 - 🫣 ReadME: 
 
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
         <tr>
                 <td>
-                        <a href="https://app.daily.dev/jecrs687">
-                                <img src="https://github.com/jecrs687/jecrs687/blob/main/devcard.svg"
-                                        width="400" alt="Emanuel Cascone's Dev Card" />
-                        </a>
+                       <a href="https://app.daily.dev/7hejudge"><img src="https://api.daily.dev/devcards/v2/6aS88fkuAfBFs8m9foAC3.png?type=default&r=73m" width="356" alt="Yan Silitskiy's Dev Card"/></a>
                 </td>
                 <td>
                         <table style="width: fit-content; border:0;">
