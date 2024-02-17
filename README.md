@@ -43,24 +43,9 @@
         </tr>
 </table>
 
-<!--### 📖 My articles on medium
-
-  [![medium-github-profile](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)
-
-📕 &nbsp;**Latest Blog Posts**-->
-
-<!-- BLOG-POST-LIST:START -->
-<!--- [Create an AMAZING readme for your github profile](https://dev.to/jecrs687/create-a-amazing-readme-for-your-github-profile-3jj0)
-- [Best repositories to learn things faster](https://dev.to/jecrs687/best-repositories-to-learn-something-different-487c)
-- [Como aumentar o lucro na mineração de chia &lpar;para pequenos fazendeiros ou iniciantes&rpar;](https://dev.to/jecrs687/como-aumentar-o-lucro-com-a-chia-para-pequenos-fazendeiros-ou-iniciantes-1o2b)
-- [Salvar arquivos maiores que o tamanho do SSD &lpar;linux&rpar;](https://dev.to/jecrs687/criar-plots-em-ssds-com-menos-de-249g-livres-linux-2o0e)
-- [Tornando hds velhos mais rápidos que um ssd - criando &quot;cluster&quot; de hds](https://dev.to/jecrs687/criando-plots-chias-em-hds-usando-o-maximo-de-desempenho-no-linux-4ecf)
--->
-<!-- BLOG-POST-LIST:END -->
-
 ## Languages and tools
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,c,python,vscode,linux,docker,mysql,mongodb,redis,heroku,html,css,scss,aws,react,nestjs,nextjs,graphql,express,firebase,github,wordpress,discord)](https://skillicons.dev)
   
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jecrs687.jecrs687)
-[![wakatime](https://wakatime.com/badge/user/777fc214-6eb8-4627-8c93-467c3ac7e028.svg)](https://wakatime.com/@777fc214-6eb8-4627-8c93-467c3ac7e028)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kucerenko171)
+[![wakatime](https://wakatime.com/badge/user/018db835-54be-4cce-a551-fb5e465f25b3.svg)](https://wakatime.com/@018db835-54be-4cce-a551-fb5e465f25b3)
