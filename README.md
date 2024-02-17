@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**Kucerenko171/kucerenko171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![zap](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/volodya_apaciti)
 [![zap](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/389157005266386944)
 [![zap](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sil_yan23/)
@@ -35,65 +18,30 @@ Here are some ideas to get you started:
                 <td>
                         <table style="width: fit-content; border:0;">
                                 <tr>
-                                        <a href="https://github.com/jecrs687">
+                                        <!--<a href="https://github.com/jecrs687">
                                                 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jecrs687&langs_count=10&layout=compact&custom_title=Emanuel%20Cascone%20WakaTime&theme=dark&hide_border=true"
                                                         width="400">
-                                        </a>
+                                        </a>-->
                                 </tr>
                           <br/>
                                 <tr>
-                                        <a href="https://github.com/jecrs687">
+                                        <a href="https://github.com/kucerenko171">
                                                <img aling="center"
-                                                        src="https://github-readme-stats.vercel.app/api?username=jecrs687&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&ring_color=pink"
-                                                        alt="jecrs687's github stats" width="400"/>
+                                                        src="https://github-readme-stats.vercel.app/api?username=kucerenko171&show_icons=true&include_all_commits=true&theme=merko&hide_border=true&count_private=true&ring_color=pink"
+                                                        alt="kucerenko171's github stats" width="400"/>
                                         </a> 
                                 </tr>
                           <br/>
                                 <tr> 
-                                              <a href="https://github.com/jecrs687">
-                                                                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecrs687&layout=compact&theme=dark&hide_border=true&langs_count=6"
-                                                                          width="190" /></a><a
-                                                                  href="https://spotify-github-profile.vercel.app/api/view?uid=31tl7hwnjbfgpjinrrnzwnitba7e&redirect=true"><img aling="center"
-                                                                          src="https://spotify-github-profile.vercel.app/api/view?uid=31tl7hwnjbfgpjinrrnzwnitba7e&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=53b14f&bar_color_cover=false"
+                                              <a href="https://github.com/kucerenko171">
+                                                                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kucerenko171&layout=compact&theme=merko&hide_border=true&langs_count=6"
                                                                           width="190" />
-                                                          </a>       
+                                                </a>
                                 </tr>
                         </table>
                 </td>
         </tr>
 </table>
--->
-
-<!--START_SECTION:waka-->
-<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 975.8 kB Used in GitHub's Storage 
- > 
-> 🏆 47 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 27 Private Repositories 
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               55 repos            ████████████████░░░░░░░░░   64.71 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-```
-
-
-
--->
- Last Updated on 16/02/2024 05:12:15 UTC
-<!--END_SECTION:waka-->
 
 <!--### 📖 My articles on medium
 
