@@ -34,8 +34,7 @@
                           <br/>
                                 <tr> 
                                               <a href="https://github.com/kucerenko171">
-                                                                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kucerenko171&layout=compact&theme=merko&hide_border=true&langs_count=6"
-                                                                          width="190" />
+                                                                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kucerenko171&layout=compact&theme=merko&hide_border=true&langs_count=10" width="400" />
                                                 </a>
                                 </tr>
                         </table>
