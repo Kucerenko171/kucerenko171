@@ -18,10 +18,10 @@
                 <td>
                         <table style="width: fit-content; border:0;">
                                 <tr>
-                                        <!--<a href="https://github.com/jecrs687">
-                                                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jecrs687&langs_count=10&layout=compact&custom_title=Emanuel%20Cascone%20WakaTime&theme=dark&hide_border=true"
+                                        <a href="https://github.com/kucerenko171">
+                                                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=7heJudge&langs_count=10&layout=compact&custom_title=Yan%27s%20Total%20WakaTime&theme=merko&hide_border=true"
                                                         width="400">
-                                        </a>-->
+                                        </a>
                                 </tr>
                           <br/>
                                 <tr>
