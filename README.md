@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+haven%27t+seen+you+for+a+long+time)](https://git.io/typing-svg)
 
-- 🍃 I’m currently working with Reactjs, React, NextJS, TypeScript...
+- 🍃 I’m currently working with ReactJs, NextJS, TypeScript etc.
 - 📫 How to reach me: yanuck00723@gmail.com
 - ⚡ Fun fact: I go in for swimming and powerlifting. Self-education in crypto, development and psychology.
 - 🫣 ReadME: 
