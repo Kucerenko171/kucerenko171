@@ -13,7 +13,7 @@
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
         <tr>
                 <td>
-                       <a href="https://app.daily.dev/7hejudge"><img src="https://api.daily.dev/devcards/v2/6aS88fkuAfBFs8m9foAC3.png?type=default&r=azz" width="356" alt="Yan Silitskiy's Dev Card"/></a>               
+                       <a href="https://app.daily.dev/7hejudge"><img src="https://api.daily.dev/devcards/v2/6aS88fkuAfBFs8m9foAC3.png?type=default&r=iyj" width="356" alt="Yan Silitskiy's Dev Card"/></a>               
                 </td>
                 <td>
                         <table style="width: fit-content; border:0;">
